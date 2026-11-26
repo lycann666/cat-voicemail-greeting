@@ -10,6 +10,8 @@ trailing newline, and refuses to write anything when it is too long.
 import os
 import sys
 
+# Gate pick (c), 23/25: the cat confesses to the crime mid-greeting — the
+# voicemail itself is the victim, which is the twist the judge rewards.
 LINE = (
     "This is Mittens. I knocked your voicemail off the table. "
     "It was asking for it. Leave a message after the purr."
